@@ -1,6 +1,11 @@
-# MATLAB autosave files
+# MATLAB autosave / temp / generated files
 *.asv
 *.m~
+*.mex*
+*.slxc
+codegen/
+slprj/
+*.autosave
 
 # Generated simulation outputs (plots, data, logs, Excel/mat exports)
 outputs/*
@@ -9,3 +14,4 @@ outputs/*
 # OS / editor junk
 .DS_Store
 Thumbs.db
+*.swp

@@ -133,6 +133,14 @@ function names were also standardized (e.g. dropping `_v2` suffixes) with all
 call sites updated accordingly. No simulation logic, numerical parameters, or
 algorithm behavior were changed.
 
+## License
+
+The code in this repository is MIT licensed — see [LICENSE](LICENSE). This
+covers the MATLAB source only. The thesis text, the conference paper, and the
+award certificate remain under their respective copyrights (Telkom University
+and the ICSEEA 2026 / BRIN conference proceedings) and are included here for
+portfolio/reference purposes, not for reuse.
+
 ## Author
 
 **Muhammad Ramadani Cikalananda**
