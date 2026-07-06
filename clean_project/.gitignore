@@ -1,0 +1,11 @@
+# MATLAB autosave files
+*.asv
+*.m~
+
+# Generated simulation outputs (plots, data, logs, Excel/mat exports)
+outputs/*
+!outputs/.gitkeep
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
