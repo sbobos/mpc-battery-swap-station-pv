@@ -38,7 +38,7 @@ a linear-programming controller:
 | Metric | Baseline (no MPC) | With MPC |
 |---|---|---|
 | Average customer waiting time | ~35–40 min | **< 5 min** (>85% reduction) |
-| Batteries served with zero wait (per day) | ~420 | **> 540** |
+| Batteries served with zero wait (per 2 weeks) | ~420 | **> 540** |
 | System Economic Burden* | ~14–19 million IDR | **1.5–4.3 million IDR** (>10x improvement) |
 | Grid energy cost | baseline | within ±2% of baseline |
 
