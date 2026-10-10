@@ -39,7 +39,7 @@ a linear-programming controller:
 |---|---|---|
 | Average customer waiting time | ~35–40 min | **< 5 min** (>85% reduction) |
 | Batteries served with zero wait (per 2 weeks) | ~420 | **> 540** |
-| System Economic Burden* | ~14–19 million IDR | **1.5–4.3 million IDR** (>10x improvement) |
+| System Economic Burden* | ~14–19 million IDR | **1.5–4.3 million IDR** (7.7–9.3 improvement) |
 | Grid energy cost | baseline | within ±2% of baseline |
 
 *System Economic Burden (SEB) is a metric I defined for this thesis that
